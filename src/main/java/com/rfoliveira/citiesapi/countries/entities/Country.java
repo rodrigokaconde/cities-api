@@ -1,4 +1,4 @@
-package com.rfoliveira.citiesapi.countries;
+package com.rfoliveira.citiesapi.countries.entities;
 
 import lombok.Data;
 
