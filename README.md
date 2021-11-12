@@ -9,7 +9,7 @@
 - Gradle
 - Postgres
 
-## criar banco de dados
+## Criar banco de dados
 ```docker run --name cities-db -d -p 5433:5432 -e POSTGRES_USER=postgres_user_city -e POSTGRES_PASSWORD=super123 -e POSTGRES_DB=cities postgres```
 
 
