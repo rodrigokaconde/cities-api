@@ -1,6 +1,6 @@
-package com.rfoliveira.citiesapi.staties.repository;
+package com.rfoliveira.citiesapi.states.repository;
 
-import com.rfoliveira.citiesapi.staties.entities.State;
+import com.rfoliveira.citiesapi.states.entities.State;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface StateRepository extends JpaRepository<State, Long> {

@@ -1,4 +1,4 @@
-package com.rfoliveira.citiesapi.staties.entities;
+package com.rfoliveira.citiesapi.states.entities;
 
 import com.rfoliveira.citiesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
